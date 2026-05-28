@@ -70,4 +70,4 @@ On first launch macOS will ask for **Input Monitoring** access (System Settings 
 
 MIT — see [LICENSE](LICENSE)
 
-***Powered by xLabs***
+***Powered by xyLabs***
